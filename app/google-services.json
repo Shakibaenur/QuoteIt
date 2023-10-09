@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159061580735",
+    "project_id": "quote-app-54f49",
+    "storage_bucket": "quote-app-54f49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159061580735:android:8e8e1c65c9ad6bdcb8df0a",
+        "android_client_info": {
+          "package_name": "com.shakibaenur.quoteapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159061580735-n5njeochi4f0b2fjnuvfqb39vm6kpf7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKWyfhLGp6Jneh_WSVKZbHyP9tAxSYB5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159061580735-n5njeochi4f0b2fjnuvfqb39vm6kpf7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
